@@ -1,2 +1,2 @@
-# ttmag
+# TTmag
 A Website for TTMAG

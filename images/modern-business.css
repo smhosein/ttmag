@@ -98,14 +98,12 @@ footer {
     overflow: hidden;
 }
 
-.navbar-inverse{
+.navbar-op{
     opacity: 1;
     background-color: white;
     border-style: solid;
-    border-bottom: 1px solid black;
+    border-bottom: solid black;
+   /* border-bottom:2px solid rgb(0,0,0);
+    padding-bottom:10px*/
 
-}
-
-.event_heading{
-    color: #0BA9C5;
 }
